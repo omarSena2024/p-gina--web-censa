@@ -1,2 +1,2 @@
-# p-gina--web-censa
+# pagina-censa
 ejercicio de página web para censa
